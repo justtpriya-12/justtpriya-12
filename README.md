@@ -9,11 +9,11 @@ Nice to meet you.
 </p>
 
 ###
-
+<!---
 <div align="center">
-  <img src="https://pin.it/2oNAnoRdh"  />
+  <img src=""  />
 </div>
-
+--->
 ###
 
 <div align="left">
