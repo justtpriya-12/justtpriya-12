@@ -32,9 +32,6 @@ Nice to meet you.
 
 ###
 
-<img src="https://raw.githubusercontent.com/justtpriya-12/justtpriya-12/output/snake.svg" alt="Snake animation" />
-
-###
 
 
 
