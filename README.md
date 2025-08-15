@@ -11,7 +11,7 @@ Nice to meet you.
 ###
 
 <div align="center">
-  <img src="https://pin.it/1VjsFJvdT"  />
+  <img src="https://pin.it/2oNAnoRdh"  />
 </div>
 
 ###
