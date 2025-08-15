@@ -8,6 +8,14 @@ Nice to meet you.
   </a>
 </p>
 
+###
+
+<div align="center">
+  <img src="https://pin.it/1VjsFJvdT"  />
+</div>
+
+###
+
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
@@ -30,9 +38,6 @@ Nice to meet you.
   <img src="https://streak-stats.demolab.com?user=justtpriya-12&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
-<div align="center">
-<img src="https://i.pinimg.com/originals/dc/f3/7a/dcf37a91bd27c05db5cfa4906176513d.gif">
-</div>
+
 
 
